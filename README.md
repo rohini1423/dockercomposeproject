@@ -1,12 +1,14 @@
-# dockercomposepr
+# DockerComposeProject
+DockerCoposeProject
 
-### Remote Repo:
-    -Sign up Git Hub
-    -Sign in Git Hub
-    -create new Repository in the Github 'DockerComposeProject'
+Here we are going to add Docker Compose Application files
 
- ### Go to Windows system:
-     -Choose the directory 'd:/batch54'
-     -git clone https://github.com/rohini1423/dockercomposeproject.git
-     -go to 'DockerComposPproject'(cd Docker Compose Project)
-     Open in VSC Editor
+### How can you build this project
+
+Step -1: Run the following command
+
+$ docker compose up
+
+Step -2: Enter http://IPAddress:8000/ in a browser to see the application running
+
+
